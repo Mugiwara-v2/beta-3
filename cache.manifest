@@ -1,7 +1,6 @@
 CACHE MANIFEST 
 # v2 Self-Host 
 
-ps4-dumper-vtx755.js
 Silver755.js
 Silver755x80.js
 Silver755x82-1.2.js
@@ -12,14 +11,12 @@ BeefQueefMod133.js
 DB_SG_Backup.js
 DB_SG_restore.js
 disableaslr.js
-dumper.js
 enablebrowser.js
 enableupdates.js
 exitidu.js
 exploit.js
 fancontrol.js
 ftp.js
-gdumper.js
 index.html
 jsloader.js
 lndex.html
